@@ -41,4 +41,4 @@ Don't worry about security--authentication, authorization, etc--but a user shoul
 
 We have provided you with a barebones file to start from: `runserver.py`
 
-Contact ben.coleman@savantx.com with any questions. Good luck!
+Contact ______________ with any questions. Good luck!
